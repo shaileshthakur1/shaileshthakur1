@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shailesh Thakur.</h1>
-<h3 align="center"> I am a Student of Cybersecurity and also a passionate Developer. digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing. My aim is to fortify</h3>
-<img align="center" enter" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_1280.jpg">
+<h3 align="center">Student of Cybersecurity also a passionate Developer. digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.. My aim is to fortify</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaileshthakur1&label=Profile%20views&color=0e75b6&style=flat" alt="shaileshthakur1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaileshthakur1" alt="shaileshthakur1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shylesstwts" target="blank"><img src="https://img.shields.io/twitter/follow/shylesstwts?logo=twitter&style=for-the-badge" alt="shylesstwts" /></a> </p>
+<img align="center" alt="Coding" width="400" src="[https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)">
 
 - 🔭 I’m currently working on **Neucron Swipe Widget & Mobile Hardware Wallet.**
 
-- 🌱 I’m currently learning **AI/ML,DevOps, Blockchain.**
+- 🌱 I’m currently learning **AI/ML,DevOps,Blockchain.**
 
 - 👯 I’m looking to collaborate on **Web & Blockchain based Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@shaileshthakur1](https://hashnode.com/@shaileshthakur1)
 
-- 💬 Ask me about **HTML, CSS, js, cybersecurity.**
+- 💬 Ask me about **html,css,js,cybersecurity.**
 
 - 📫 How to reach me **thakurshaileshkumar507@gmail.com**
 
@@ -25,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/shaileshthakur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shaileshthakur1" height="30" width="40" /></a>
-
+<a href="https://twitter.com/shylesstwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shylesstwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shailesh kumar thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh kumar thakur" height="30" width="40" /></a>
-<a href="https://instagram.com/iamshyless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshyless" height="30" width="40" /></a>
+
 <a href="https://hashnode.com/@shaileshthakur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shaileshthakur1" height="30" width="40" /></a>
 <a href="https://medium.com/@thakurshaileshkumar507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thakurshaileshkumar507" height="30" width="40" /></a>
 <a href="https://discord.gg/883458340422815807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="883458340422815807" height="30" width="40" /></a>
@@ -39,4 +38,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshthakur1&show_icons=true&locale=en&layout=compact" alt="shaileshthakur1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshthakur1&" alt="shaileshthakur1" /></p>
+
 
