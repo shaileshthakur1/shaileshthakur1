@@ -1,3 +1,16 @@
+<div id="header" align="center">
+
+  
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="350" height="250"/>
+</div>
+
+
+<!---GIF--->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+
 <h1 align="center">Hi 👋, I'm Shailesh Thakur.</h1>
 <h3 align="center">Student of Cybersecurity also a passionate Developer. digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.. My aim is to fortify</h3>
 
