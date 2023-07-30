@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi 👋, I'm Shailesh Thakur.</h1>
 
-<h3 align="center">Student of Cybersecurity also a passionate Developer.My aim is to fortify digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.</h3>
+<h3 align="center">Student of Cybersecurity also a passionate Developer. My aim is to fortify digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.</h3>
 
 <!---Profile Views---> 
 
