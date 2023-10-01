@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Neucron Swipe Widget & Mobile Hardware Wallet.**
 
-- 🌱 I’m currently learning **AI/ML,DevOps,Blockchain.**
+- 🌱 I’m currently learning **Fullstack Development, Blockchain Dev.**
 
 - 👯 I’m looking to collaborate on **Web & Blockchain based Development**
 
