@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **learning humour:(|**
 
-<img align="right" src="https://wakatime.com/share/@shaileshthakur1/6dc04d41-e23a-4094-bd1a-6926553b59e0.svg" height="300px">
+
 
 <h3 align="left">🚀Connect with me:</h3>
 
@@ -62,7 +62,7 @@
 <!---Tools--->
 
 ## 💥 Tech Stack:
-
+<img align="right" src="https://wakatime.com/share/@shaileshthakur1/6dc04d41-e23a-4094-bd1a-6926553b59e0.svg" height="300px">
 ### 🧑🏻‍💻 Languages:
 
 <h3 align="left">Languages and Tools:</h3>
