@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) 
 <!--<div id="header" align="center"> -->
 
   
@@ -21,15 +21,15 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaileshthakur1" alt="shaileshthakur1" /></a> </p> -->
 
 
-- 🔭 I’m currently working on **Neucron Swipe Widget & Mobile Hardware Wallet.**
+- <!-- 🔭 I’m currently working on **Neucron Swipe Widget & Mobile Hardware Wallet.** -->
 
 - 🌱 I’m currently learning **Fullstack Development, Blockchain Dev.**
 
-- 👯 I’m looking to collaborate on **Web & Blockchain based Development**
+- <!-- 👯 I’m looking to collaborate on **Web & Blockchain based Development** -->
 
-- 📝 I regularly write articles on [https://hashnode.com/@shaileshthakur1](https://hashnode.com/@shaileshthakur1)
+- <!-- 📝 I regularly write articles on [https://hashnode.com/@shaileshthakur1](https://hashnode.com/@shaileshthakur1 -->
 
-- 💬 Ask me about **html,css,js,cybersecurity.**
+- <!-- 💬 Ask me about **html,css,js,cybersecurity.** -->
 
 - 📫 How to reach me **thakurshaileshkumar507@gmail.com**
 
@@ -88,10 +88,31 @@
  <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
  </p>
 
+ <details>
+    <summary><h4>More Stats:</h4></summary>
+    <p>
+        <a href="https://github.com/shaileshthakur1">
+        <img src="https://github-readme-stats.vercel.app/api?username=shaileshthakur1&show_icons=true&count_private=true&theme=dark" width="400">
+        </a>
+    </P>
+    <p>
+        <a href="https://github.com/shaileshthakur1">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshthakur1&theme=dark" width="400">
+        </a>
+    </P>
+    <p>
+        <a href="https://github.com/shaileshthakur1">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshthakur1&layout=compact&langs_count=10&theme=dark" width="400">
+        </a>
+    </p>
+</details>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshthakur1&show_icons=true&locale=en&layout=compact" alt="shaileshthakur1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshthakur1&" alt="shaileshthakur1" /></p>
+
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshthakur1&show_icons=true&locale=en&layout=compact" alt="shaileshthakur1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshthakur1&" alt="shaileshthakur1" /></p> -->
 
 
