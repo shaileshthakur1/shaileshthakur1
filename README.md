@@ -36,33 +36,18 @@
 
 
 
-<h3 align="left">🚀Connect with me:</h3>
-
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/shailesh-kumar-thakur-991316205/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thakurshaileshkumar507@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
 	
  <!-- <a href="https://twitter.com/shylesstwts"">
 		<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> --!>
 	
-<a href="https://instagram.com/_iamshyless_/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-	<a href="https://medium.com/@thakurshaileshkumar507">
-		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-	</a>      
+   
 </p>
 
 <!---Tools--->
 
 ## 💥 Tech Stack:
-<img align="right" src="https://wakatime.com/share/@shaileshthakur1/6dc04d41-e23a-4094-bd1a-6926553b59e0.svg" height="300px">
+<img align="right" src="https://wakatime.com/share/@shaileshthakur1/84429b0e-80b7-43a6-acee-b6379b56c8d1.svg" height="300px">
 
 <!--### 🧑🏻‍💻 Languages: -->
 
@@ -99,9 +84,22 @@
     </p>
 </details>
 
+<h4 align="left">🤝Connect with me:</h4>
 
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/shailesh-kumar-thakur-991316205/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:thakurshaileshkumar507@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/_iamshyless_/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://medium.com/@thakurshaileshkumar507">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>   
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshthakur1&show_icons=true&locale=en&layout=compact" alt="shaileshthakur1" /></p>
 
