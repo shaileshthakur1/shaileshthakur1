@@ -34,6 +34,7 @@
 
 - ⚡ Fun fact **learning humour:(|**
 
+- 📫 Deep Interest in Psychology & philoshphy.
 ##
 
  <h4 align="left">🤝Connect with me:</h4>
