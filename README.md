@@ -12,7 +12,7 @@
 
 <h2 align="center">Hi there!👋, I'm Shailesh Thakur.</h2>
 
-<h3 align="center">Student of Cybersecurity also a passionate Developer. My aim is to fortify digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.</h3>
+<h4 align="left">Student of Cybersecurity also a passionate Developer. My aim is to fortify digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.</h4>
 
 <!---Profile Views---> 
 
@@ -37,10 +37,11 @@
 - 📫 Deep Interest in Psychology & philoshphy.
 ##
 
- <h4 align="left">🤝Connect with me:</h4>
 
-
-<p align="center">
+  <h4 align="left">Connet with me 🤝:</h4>
+  
+##
+<p align="left">
 <a href="https://www.linkedin.com/in/shailesh-kumar-thakur-991316205/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -65,14 +66,17 @@
 </p>
 
 <!---Tools--->
-
-## 💥 Tech Stack:
+  <h4 align="left">Tech Stack⚙️:</h4>
+  
+##
 <img align="middle" src="https://wakatime.com/share/@shaileshthakur1/84429b0e-80b7-43a6-acee-b6379b56c8d1.svg" height="300px">
 
 <!--### 🧑🏻‍💻 Languages: -->
 
 <h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
 <p align="left"> 
+
+## 
 
 <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
@@ -104,6 +108,8 @@
         </a>
     </p>
 </details>
+
+##
 
 <details>
     <summary><h5>Hacktoberfest 2k23 😸</h4></summary>
