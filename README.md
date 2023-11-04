@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br> -->
 
-<h1 align="center">Hi 👋, I'm Shailesh Thakur.</h1>
+<h2 align="center">Hi there!👋, I'm Shailesh Thakur.</h2>
 
 <h3 align="center">Student of Cybersecurity also a passionate Developer. My aim is to fortify digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.</h3>
 
@@ -53,6 +53,7 @@
 <a href="https://medium.com/@thakurshaileshkumar507">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>   
+<a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
 	
@@ -66,22 +67,23 @@
 <!---Tools--->
 
 ## 💥 Tech Stack:
-<img align="right" src="https://wakatime.com/share/@shaileshthakur1/84429b0e-80b7-43a6-acee-b6379b56c8d1.svg" height="300px">
+<img align="middle" src="https://wakatime.com/share/@shaileshthakur1/84429b0e-80b7-43a6-acee-b6379b56c8d1.svg" height="300px">
 
 <!--### 🧑🏻‍💻 Languages: -->
 
 <h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
- </p>
+ </p> -->
+
+<p align="left"> <a href="https://github.com/shaileshthakur1"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,flutter,azure,nodejs"> </a> </p>
 
 
  <details>
