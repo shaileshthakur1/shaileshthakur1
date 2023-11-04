@@ -103,6 +103,12 @@
     </p>
 </details>
 
+<details>
+    <summary><h5>Hacktoberfest 2k23 😸</h4></summary>
+
+[![An image of @shailesh1st's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shailesh1st)](https://holopin.io/@shailesh1st)
+
+</details>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshthakur1&show_icons=true&locale=en&layout=compact" alt="shaileshthakur1" /></p>
 
