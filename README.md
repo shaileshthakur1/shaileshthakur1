@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **learning humour:(|**
 
-- 📫 Deep Interest in Psychology & philoshphy.
+- 📫 Fond of in Psychology & philoshphy.
 ##
 
 
