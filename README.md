@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br> -->
 
-<h2 align="center">Hi there!👋, I'm Shailesh Thakur.</h2>
+<h2 align="center">Hey!👋, I'm Shailesh Thakur.</h2>
 
 <h4 align="left">Student of Cybersecurity also a passionate Developer. My aim is to fortify digital realms through expert cybersecurity insights while embracing the transformative potential of DevOps, Blockchain, and the power of effective content writing.</h4>
 
