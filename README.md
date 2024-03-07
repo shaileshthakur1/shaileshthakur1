@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **learning humour:(|**
 
-- 📫 Fond of in Psychology & philoshphy.
+- 📫 Fond of Psychology & philoshphy.
 ##
 
 
