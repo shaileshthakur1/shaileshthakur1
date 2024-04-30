@@ -28,7 +28,7 @@
 
  <!-- 📝 I regularly write articles on [https://hashnode.com/@shaileshthakur1](https://hashnode.com/@shaileshthakur1 -->
 
- <!-- 💬 Ask me about **html,css,js,cybersecurity.** -->
+- 💬 Ask me about **html,css,js,cybersecurity.**
 
 - 📫 How to reach me **thakurshaileshkumar507@gmail.com**
 
