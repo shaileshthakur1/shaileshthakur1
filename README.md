@@ -30,6 +30,8 @@
 
 - 💬 Ask me about **Javascript & ReactJS**
 
+- 💌 love creating content on YT & IG. 
+
 - 📫 How to reach me **thakurshaileshkumar507@gmail.com**
 
 - ⚡ Fun fact **learning humour:(|**
